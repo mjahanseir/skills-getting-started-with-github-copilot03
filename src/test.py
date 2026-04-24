@@ -1,2 +1,2 @@
 def calculate_average(numbers):
-    # Start typing here and watch Copilot suggest the function
+    # Start typing here and watch Copilot suggest the 
